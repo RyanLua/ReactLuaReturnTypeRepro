@@ -2,7 +2,7 @@
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
-local React = require(ReplicatedStorage.Packages.react) -- React Lua from jsdotlua from Wally
+local React = require(ReplicatedStorage.Packages.react)
 
 export type Props = {
 	text: string
