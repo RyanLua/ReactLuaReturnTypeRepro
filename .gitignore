@@ -1,0 +1,11 @@
+# Project place file
+/ReactLuaReturnTypeRepro.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+
+# Wally
+Packages/
